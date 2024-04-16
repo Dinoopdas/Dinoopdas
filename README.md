@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&animation=twinkling
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Robotics%20AI&animation=twinkling
