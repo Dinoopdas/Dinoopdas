@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Dinoopdas/Dinoopdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Robotics,%20AI&animation=twinkling
 <p align="center">
