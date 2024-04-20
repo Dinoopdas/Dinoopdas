@@ -1,28 +1,24 @@
-<html>
-<div class="banner">
-  <h1>Hello, I'm Dinoop</h1>
-  <p>Robotics Engineer | Innovator | Collaborator</p>
-</div>
+- 🧑‍💼 I’m Dinoop
+- 🏫 Mtech in Robotics
+- 🤖 Robotics Engineer
+- 📧 Email : dinoopdas15@gmail.com
+- 📱 Mobile Number : +917907226471
+- ⚡ ROS/ROS2, Python, AI, Arduino, Raspberry Pi
 
-<style>
-.banner {
-  background-color: #000;
-  color: #fff;
-  padding: 20px;
-  text-align: center;
-  animation: banner-animation 5s infinite alternate;
-}
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello, I am Dinoop!&height=100&section=header"/>
+</p>
 
-@keyframes banner-animation {
-  0% {
-    background-color: #000;
-  }
-  50% {
-    background-color: #333;
-  }
-  100% {
-    background-color: #000;
-  }
-}
-</style>
-</html>
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<a href="https://www.linkedin.com/in/dinoop-n-267905151">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
