@@ -6,7 +6,7 @@
 - ⚡ ROS/ROS2, Python, AI, Arduino, Raspberry Pi
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello, I am Dinoop!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
