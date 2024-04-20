@@ -1,3 +1,4 @@
+<html>
 <div class="banner">
   <h1>Hello, I'm Dinoop</h1>
   <p>Robotics Engineer | Innovator | Collaborator</p>
@@ -24,3 +25,4 @@
   }
 }
 </style>
+</html>
