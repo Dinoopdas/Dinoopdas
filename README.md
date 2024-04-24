@@ -6,7 +6,7 @@
 - ⚡ ROS/ROS2, Python, AI, Arduino, Raspberry Pi
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Robotics%20|%20AI%20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Robotics%20|%20AI%20|%20ROS%20"/>
 </p>
 
 <h1 align="center">
