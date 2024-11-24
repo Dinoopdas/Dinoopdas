@@ -20,6 +20,10 @@
 <a href="https://github.com/Dinoopdas">
   <img height="50" src="https://i.postimg.cc/KcDrgGnK/images.jpg"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://dinoopn.my.canva.site/">
+  <img height="50" src="https://i.postimg.cc/ZKVMhFn5/portfolio.png"/>
+</a>
 </p>
 
 <p align="center">
