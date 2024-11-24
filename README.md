@@ -14,15 +14,15 @@
 </h1>
 
 <a href="https://www.linkedin.com/in/dinoop-n-267905151">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="50" border="10" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Dinoopdas">
-  <img height="50" src="https://i.postimg.cc/KcDrgGnK/images.jpg"/>
+  <img height="50" border="10" src="https://i.postimg.cc/KcDrgGnK/images.jpg"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://dinoopn.my.canva.site/">
-  <img height="50" src="https://i.postimg.cc/ZKVMhFn5/portfolio.png"/>
+  <img height="50" border="10" src="https://i.postimg.cc/VN6RB3Wq/photo-2024-11-24-11-32-44.jpg"/>
 </a>
 </p>
 
