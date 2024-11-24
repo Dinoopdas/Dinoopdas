@@ -14,7 +14,7 @@
 </h1>
 
 <a href="https://www.linkedin.com/in/dinoop-n-267905151">
-  <img height="50" border="10" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img style=”border:5px solid #000000; padding:3px; margin:5px” height="50" border="10" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Dinoopdas">
