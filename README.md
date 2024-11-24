@@ -24,6 +24,10 @@
 <a href="https://dinoopn.my.canva.site/">
   <img height="50" border="20" src="https://i.postimg.cc/VN6RB3Wq/photo-2024-11-24-11-32-44.jpg"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/dinoop.das">
+  <img height="50" border="20" src="https://i.postimg.cc/Sx7TGBYR/instagram-6338393-1280.png"/>
+</a>
 </p>
 
 <p align="center">
