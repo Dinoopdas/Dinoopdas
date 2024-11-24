@@ -18,7 +18,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Dinoopdas">
-  <img style="border-radius: 50%;" height="50" src="https://i.postimg.cc/KcDrgGnK/images.jpg"/>
+  <img height="50" src="https://i.postimg.cc/KcDrgGnK/images.jpg"/>
 </a>
 </p>
 
