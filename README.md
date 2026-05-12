@@ -2,7 +2,6 @@
 - 🏫 Mtech in Robotics
 - 🤖 Robotics Engineer
 - 📧 Email : dinoopdas15@gmail.com
-- 📱 Mobile Number : +917907226471
 - ⚡ ROS/ROS2, Python, AI, Arduino, Raspberry Pi
 
 <p align="center">
